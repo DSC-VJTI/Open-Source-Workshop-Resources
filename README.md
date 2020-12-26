@@ -1,10 +1,13 @@
 # Open-Source-Workshop-Resources
 
-Planning Open Source
-https://docs.google.com/document/d/12ATMME__32CxGGCscgn__PJdZauOYkYyObuKTM02N0k/edit
+<a href="https://docs.google.com/document/d/12ATMME__32CxGGCscgn__PJdZauOYkYyObuKTM02N0k/edit"
+ target="_blank">Planning Open Source</a>
 
-Website Containing All Open Source Programs
-https://opensourceinternships.herokuapp.com/
+<a href="https://opensourceinternships.herokuapp.com/"
+ target="_blank">Website Containing All Open Source Programs
+/a>
+
+
 
 What is Open Source and Various Open Source Programs 
 https://docs.google.com/presentation/d/1KELlBp0JQtl8Xiy-cLFz4we2IhD3ja91q1araJd2NvM/edit?usp=sharing

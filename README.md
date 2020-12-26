@@ -7,13 +7,10 @@
  target="_blank">Website Containing All Open Source Programs
 </a>
 
-<a href="https://opensourceinternships.herokuapp.com/"
- target="_blank">Website Containing All Open Source Programs
+<a href="https://docs.google.com/presentation/d/1KELlBp0JQtl8Xiy-cLFz4we2IhD3ja91q1araJd2NvM/edit?usp=sharing"
+ target="_blank">What is Open Source and Various Open Source Programs 
 </a>
 
-
-What is Open Source and Various Open Source Programs 
-https://docs.google.com/presentation/d/1KELlBp0JQtl8Xiy-cLFz4we2IhD3ja91q1araJd2NvM/edit?usp=sharing
 
 <a href="https://docs.google.com/presentation/d/1wLc8WoVDvteUshc6zKJMYK7naWdPCO5QYAyOImH3PDk/edit?usp=sharing"
  target="_blank">All about creating a pull request

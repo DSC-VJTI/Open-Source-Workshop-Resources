@@ -7,8 +7,6 @@
  target="_blank">Website Containing All Open Source Programs
 </a>
 
-
-
 What is Open Source and Various Open Source Programs 
 https://docs.google.com/presentation/d/1KELlBp0JQtl8Xiy-cLFz4we2IhD3ja91q1araJd2NvM/edit?usp=sharing
 
@@ -29,7 +27,6 @@ https://docs.google.com/presentation/d/1vmP1qpxx9XUEV27n7DRVq1p3_2Tg2cBbj2IJQYSy
 
 All about Markdowon
 https://docs.google.com/presentation/d/1c92LcXNIkzk1rl-R5ccUA_F1lwFAPfk3FZUxFVYCqIY/edit?usp=sharing
-
 
 Feedback Open Source
 https://docs.google.com/spreadsheets/d/1eUi0NrQme9tIB_B0RSs39sbxYp7FZsudQa5ky660XGI/edit#gid=0
